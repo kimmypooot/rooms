@@ -1,0 +1,7 @@
+# Uploaded documents and data, not code
+/uploads/
+
+*.log
+error_log
+.DS_Store
+.env
